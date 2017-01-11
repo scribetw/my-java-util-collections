@@ -3,6 +3,8 @@ My Java Util Collections
 
 [![Build Status](https://travis-ci.org/scribetw/my-java-util-collections.svg)](https://travis-ci.org/scribetw/my-java-util-collections)
 
+[![Code Coverage](https://codecov.io/gh/scribetw/my-java-util-collections/branch/master/graph/badge.svg)](https://codecov.io/gh/scribetw/my-java-util-collections)
+
 What is it?
 -----------
 
